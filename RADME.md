@@ -33,7 +33,7 @@
 | ------------- |:------:|
 | [scala](https://github.com/jancajthaml-scala/luhn) | N * 400 ns/op |
 | [golang](https://github.com/jancajthaml-go/luhn)   | N * 10 ns/op  |
-| [c](https://github.com/jancajthaml-c/lunh)         | N * 0.3 ns/op |
+| [c](https://github.com/jancajthaml-c/luhn)         | N * 0.3 ns/op |
 
 ### damm
 
